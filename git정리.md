@@ -3,7 +3,7 @@
 3. git add 파일명
 git add . = 현재위치 모두 무대로
 4. git commit -m "메시지"
-4-1 git commit만 했을 때, VIM 진입
+4-1. git commit만 했을 때, VIM 진입
 4-2. insert 모드 진입 -> i
 4-3. 메시지를 기입한다
 4-4. esc : 인서트 모드 탈출
