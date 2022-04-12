@@ -51,4 +51,5 @@
   3. git switch 브랜치명 = 이동하기 (git checkout 브랜치명 ←예전 명령어)
   4. git merge 브랜치명 = 합치기
   5. git branch -d 브랜치명 = 삭제하기 (강제삭제는 -D)
+  6. git switch -c 브랜치명 = 생성하면서 이동하기
 
