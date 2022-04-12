@@ -28,3 +28,27 @@
 - git push origin master
 
   수정→저장→add→commit 사이클 반복
+
+- git init : 이 공간을 관리해줘
+
+  vs
+
+  git clone : 이 공간에 온라인 레포를 폴더째 들고와줘
+
+  1. git init이 된 상태로 폴더를 가져와준다
+  2. 그러니까 브릿지도 제대로 이어져있다 (주소가 이미 연결돼 있음)
+
+- git init과 git clone은 단 한번
+
+  vs
+
+  push와 pull은 계속
+
+- branch
+
+  1. git branch = 확인하기
+  2. git branch 브랜치명 = 생성하기
+  3. git switch 브랜치명 = 이동하기 (git checkout 브랜치명 ←예전 명령어)
+  4. git merge 브랜치명 = 합치기
+  5. git branch -d 브랜치명 = 삭제하기 (강제삭제는 -D)
+
